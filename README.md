@@ -2,8 +2,6 @@
 
 A responsive tour and travel website built with React to practice component decomposition, props drilling, and CSS inside React.
 
-![React](https://img.shields.io/badge/React-blue) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-
 ---
 
 ## What it demonstrates
