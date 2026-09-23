@@ -40,7 +40,7 @@ Then open `http://localhost:5173` in your browser.
 
 ## Deployed
 
-[Live Demo](https://your-netlify-link.netlify.app)
+[Live Demo](https://tour-and-travel-beta-one.vercel.app/)
 
 ---
 
